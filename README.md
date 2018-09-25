@@ -6,6 +6,6 @@ Navigate to [Bats](https://github.com/bats-core/bats-core/blob/master/README.md)
 if you haven't already.
 
 Once you have installed bats in your bash:
-Clone this repository onto your computer
-Navigate to the location of the repository
-Run `*.bats`.
+1. Clone this repository onto your computer
+1. Navigate to the location of the repository
+1. Run `*.bats`.
